@@ -26,7 +26,7 @@ class A_Solo_Un_Bit:
 
  ```
 
-### 📺 Últimos videos (¡Suscribite pues!)
+## 📺 Últimos videos (¡Suscribite pues!)
 🔧 Cómo hacer tu primer backend con Node.js
 
 🎨 Frontend bonito con Tailwind y sin tanto cuento
@@ -37,10 +37,25 @@ class A_Solo_Un_Bit:
 
 👉 ¡Mirá el canal aquí! y no olvides suscribirte y activar la campanita 🔔
 
-###⚙️ Lo que usamos por acá
+<br>
+
+##⚙️ Lo que usamos por acá
 #🧩 Herramientas y lenguajes favoritos:
 <p> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> </p>
-###🎨 Frameworks y estilos:
+<br>
+##🎨 Frameworks y estilos:
 <p> <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" /> </p>
-###🖥️ Sistemas que usamos:
+<br>
+<b>
+##🖥️ Sistemas que usamos:
 <p> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> </p>
+
+<b>
+##📈 Un poco de stats (porque sí, también programamos)
+<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>
+
+ <b> 
+##💬 ¿Charlamos?
+📩 ¡Escribime si querés proponer temas, dudas o simplemente saludar!
+
+
