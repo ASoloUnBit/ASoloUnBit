@@ -39,7 +39,7 @@ class A_Solo_Un_Bit:
 
 <div align="center">
   <a href="https://www.youtube.com/@asolounbit">
-    <img src="https://private-user-images.githubusercontent.com/208305611/435426109-c6093388-40bc-47ca-a7fb-f2963f793493.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxMDA1NDIsIm5iZiI6MTc0NTEwMDI0MiwicGF0aCI6Ii8yMDgzMDU2MTEvNDM1NDI2MTA5LWM2MDkzMzg4LTQwYmMtNDdjYS1hN2ZiLWYyOTYzZjc5MzQ5My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxOVQyMjA0MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Y2E4MmVkYmYzMDRiN2M0NjVlMjU5MGI0ZWMwMDM4NzcxMTdiNmY4NzdmZTMyYmQ5YmJlNTNiYWY3ZGUyODk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cvEHxNSX5YxpPto6c4u-SMsvKZqzN5k-tf1Qh9xBKCo"  alt="¡Suscribite al canal!"/>
+    <img src="https://github.com/user-attachments/assets/c6093388-40bc-47ca-a7fb-f2963f793493"  alt="¡Suscribite al canal!"/>
   </a>
 </div>
 
