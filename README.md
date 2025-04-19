@@ -43,7 +43,7 @@ class A_Solo_Un_Bit:
 ---
 
 ##⚙️ Lo que usamos por acá
----
+
 🧩 Herramientas y lenguajes favoritos:
 ---
 <p> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> </p>
