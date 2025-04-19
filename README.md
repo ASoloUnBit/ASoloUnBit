@@ -36,6 +36,7 @@ class A_Solo_Un_Bit:
 ☁️ Despliega tus apps como un pro (¡gratis!)
 
 ---
+
 <div align="center">
 
 ### 🎯 ¿Aún no estás suscrito?
@@ -44,6 +45,7 @@ class A_Solo_Un_Bit:
 
 </div>
 
+---
 ### ⚙️ Lo que usamos por acá
 
 🧩 Herramientas y lenguajes favoritos:
