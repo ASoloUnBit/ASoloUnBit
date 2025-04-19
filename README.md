@@ -42,19 +42,19 @@ class A_Solo_Un_Bit:
 
 ---
 
-##⚙️ Lo que usamos por acá
+### ⚙️ Lo que usamos por acá
 
 🧩 Herramientas y lenguajes favoritos:
 ---
 <p> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> </p>
 ---
-##🎨 Frameworks y estilos:
+🎨 Frameworks y estilos:
 <p> <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" /> </p>
----
-##🖥️ Sistemas que usamos:
+
+🖥️ Sistemas que usamos:
 <p> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /> </p>
----
-##💬 ¿Charlamos?
+
+💬 ¿Charlamos?
 📩 ¡Escribime si querés proponer temas, dudas o simplemente saludar!
----
+
 
