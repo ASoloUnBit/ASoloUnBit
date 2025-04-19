@@ -24,4 +24,15 @@ class A_Solo_Un_Bit:
     canal = "https://www.youtube.com/@asolo1bit"
     lema = "Aprender sin miedo y a lo criollo 😎"
 
----
+
+### 📺 Últimos videos (¡Suscribite pues!)
+🔧 Cómo hacer tu primer backend con Node.js
+
+🎨 Frontend bonito con Tailwind y sin tanto cuento
+
+🐳 Docker para novatos: contenedores sin estrés
+
+☁️ Despliega tus apps como un pro (¡gratis!)
+
+👉 ¡Mirá el canal aquí! y no olvides suscribirte y activar la campanita 🔔
+
