@@ -1,7 +1,7 @@
 ## 🎥 ¡Bienvenido a *A Solo Un Bit*! 👋
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b7024354-0a2b-40a3-8923-6d1ec67cae00" height="350px" width="95%" />
+  <img src="https://github.com/user-attachments/assets/b7024354-0a2b-40a3-8923-6d1ec67cae00" height="380px" width="95%" />
 </div>
 
 
