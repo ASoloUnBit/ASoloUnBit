@@ -14,7 +14,7 @@ class WhoAmI:
     currently_learning = ["Fullstack Dev", "Docker", "Kubernetes"]
     fun_fact = "Me encanta enseñar y aprender al mismo tiempo 😎"
     goals = ["Crear apps útiles", "Compartir conocimiento en YouTube", "Crecer comunidad dev latina 💻🌎"]
-
+```
  
 ## Github Stats
 
