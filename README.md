@@ -43,7 +43,6 @@ class A_Solo_Un_Bit:
 👉 [Haz clic aquí para suscribirte al canal](https://www.youtube.com/@asolounbit) y no te perdás ningún video 🔔
 
 </div>
----
 
 ### ⚙️ Lo que usamos por acá
 
