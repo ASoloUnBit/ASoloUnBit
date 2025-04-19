@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center"><img src="![Image](https://github.com/user-attachments/assets/b7024354-0a2b-40a3-8923-6d1ec67cae00)" height = 250px width = 60%  /></div>
+<div align="center"><img src="https://github.com/ASoloUnBit/ASoloUnBit/issues/1" height = 250px width = 60%  /></div>
 
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
