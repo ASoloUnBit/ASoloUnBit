@@ -36,7 +36,10 @@ class A_Solo_Un_Bit:
 ☁️ Despliega tus apps como un pro (¡gratis!)
 
 ---
-👉 ¡Mirá el canal aquí! y no olvides suscribirte y activar la campanita 🔔
+### 🎯 ¿Aún no estás suscrito?
+
+👉 [Haz clic aquí para suscribirte al canal](https://www.youtube.com/@asolounbit) y no te perdás ningún video 🔔
+
 ---
 
 ⚙️ Lo que usamos por acá
