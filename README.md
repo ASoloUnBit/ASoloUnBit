@@ -18,11 +18,11 @@ Aquí no hay paja: pura práctica, ejemplos simples y contenido pensado pa' la c
 
 ```python
 class A_Solo_Un_Bit:
-    nombre = "Parcero del código"
+    nombre = "A Solo Un Bit"
     pasiones = ["Programar", "Explicar", "Aprender"]
     contenido = ["Fullstack", "Docker", "Kubernetes", "Proyectos útiles"]
-    canal = "https://www.youtube.com/@asolo1bit"
-    lema = "Aprender sin miedo y a lo criollo 😎"
+    canal = "https://www.youtube.com/@asolounbit"
+    lema = "Aprender sin miedo a programar... 😎"
 
  ```
 ---
