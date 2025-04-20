@@ -26,10 +26,12 @@ class A_Solo_Un_Bit:
 
  ```
 ---
+
 📺 Últimos videos (¡Suscribite pues!)
+
 🔧 Cómo hacer tu primer backend con Node.js
 
-🎨 Frontend bonito con Tailwind y sin tanto cuento
+🎨 Frontend bonito con Css, Tailwind y sin tanto cuento
 
 🐳 Docker para novatos: contenedores sin estrés
 
