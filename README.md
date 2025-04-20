@@ -9,7 +9,7 @@
 
 ### 🚀 ¿De qué trata este canal?
 
-🎬 *A Solo Un Bit* es un canal de YouTube hecho para **aprender programación**, **desarrollar proyectos**, y pasarla bueno en el proceso.  
+🎬 *A Solo Un Bit* es un canal de YouTube hecho para **aprender programación**, **desarrollar proyectos**,**logíca de Programación**, y pasarla bueno en el proceso.  
 Aquí estaremos simpre con, pura práctica, ejemplos simples y contenido pensado para la comunidad latina 💻🌎
 
 ---
